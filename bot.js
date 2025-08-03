@@ -596,7 +596,7 @@ const PORT = process.env.PORT || 3000;
 app.listen(PORT, '0.0.0.0', () => {
     console.log(`🌐 Server running on port ${PORT}`);
     console.log(`📱 لبدء عملية الربط، أرسل POST request إلى: http://localhost:${PORT}/start-pairing`);
-    console.log(`📋 مع البيانات: {"phoneNumber": "+966501234567"}`);
+    console.log(`📋 مع البيانات: {"phoneNumber": "+201501145599"}`);
 });
 
 console.log('🚀 WhatsApp Bot (Pairing Code Only) starting...');
