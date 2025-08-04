@@ -53,4 +53,4 @@
 
 ## متنساش تعمل ⭐ للمشروع لو أعجبك
 
-[![زر للضغط](https://img.shields.io/badge/تجربة-اضغط_هنا-success?style=for-the-badge&logo=github)](https://github.com/Alone1P/WhatsApp-Bot)
+[![بوت واتس](https://img.shields.io/badge/مفتوح-المصدرsuccess?style=for-the-badge&logo=github)](https://github.com/Alone1P/WhatsApp-Bot)
