@@ -21,10 +21,10 @@
    ```bash
    node bot.js
    ```
-   (تأكد من كتابة `bot.js` بشكل صحيح!)
+   (تأكد من كتابة `bot.js` بشكل صحيح)
 
 6. افتح تيرمنال جديد (اضغط على **`+`**).
-7. الصق هذا الأمر مع تعديل رقم الهاتف:
+7. الصق الأمر دا مع تعديل رقم الهاتف :
    ```bash
    curl -X POST http://localhost:3000/start-pairing \
      -H "Content-Type: application/json" \
